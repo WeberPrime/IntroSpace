@@ -1,6 +1,6 @@
 # IntroSpace (formerly QuietLeader)
 
-IntroSpace is a modern web application designed to foster personal growth, meaningful connections, and mindful productivity. It provides a unique space for individuals to connect, reflect, and learn without the usual distractions of traditional social platforms.
+IntroSpace is a modern web application designed to foster personal growth, meaningful connections, and mindful productivity especially for people who are introverts and less confident in public speaking and leadership. It provides a unique space for individuals to connect, reflect, and learn without the usual distractions of traditional social platforms.
 
 ## Features
 
@@ -28,8 +28,6 @@ Dedicated audio spaces for focused work, meditation, or quiet contemplation. The
 ### Progress Tracker
 Monitor your growth and achievements within the app. Set goals, track your habits, and visualize your progress to stay motivated on your journey.
 
-### Introspect AI
-Leverage AI-powered insights to deepen your self-understanding and guide your reflections.
 
 ### Silent Recommendations
 Receive personalized content and connection suggestions without intrusive notifications.
