@@ -71,7 +71,4 @@ To run this project locally, follow these steps:
 *   Tailwind CSS
 *   shadcn/ui
 *   Lucide React Icons
-
-## Support
-
-If you encounter any issues or have questions, please open a support ticket at [vercel.com/help](https://vercel.com/help).
+##By Team #22
